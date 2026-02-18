@@ -1,2 +1,2 @@
-# PRIMS-ALGORITHM
+# codes
 MY FIRST CODE
